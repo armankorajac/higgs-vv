@@ -1,0 +1,82 @@
+M$ModelName = "Higgs-VV dim6 Pisa basis";
+
+
+M$Information = {Authors -> {"D. Buttazzo", "R. Franceschini", "A. Korajac"}, 
+                 Version -> "1.0",
+                 Date    -> "01.03.2025",
+                 Emails  -> {"", "", ""}};
+
+M$InteractionOrderHierarchy = {
+  {QCD, 1},
+  {QED, 2},
+  {NP,1} 
+};
+
+M$Parameters = {
+
+    (*** EFT cutoff - set to 1 TeV by default ***)
+
+  LambdaSMEFT == {
+    ParameterType    -> External,
+    BlockName        -> SMEFTcutoff,
+    Value            -> 10^(3),
+    InteractionOrder -> {QED, -1},
+    TeX              -> \[CapitalLambda]
+  },
+
+
+
+  cHW == {
+    ParameterType    -> External,
+    BlockName        -> SMEFT,
+    Value            -> 1,
+    InteractionOrder -> {{NP,1}, {cHW,1}},
+    TeX              -> Subscript[c,HW]
+  },
+
+  cHB == {
+    ParameterType    -> External,
+    BlockName        -> SMEFT,
+    Value            -> 1,
+    InteractionOrder -> {{NP,1}, {cHB,1}},
+    TeX              -> Subscript[c,HB]
+  },
+
+  cHWB == {
+    ParameterType    -> External,
+    BlockName        -> SMEFT,
+    Value            -> 1,
+    InteractionOrder -> {{NP,1}, {cHWB,1}},
+    TeX              -> Subscript[c, HWB]
+  }
+
+};
+
+
+M$ClassesDescription = {
+
+};
+
+
+(********************* The Lagrangian *********************)
+
+OHW:= Module[ {mu,nu,ii,kk},
+		ExpandIndices[Phibar[ii] Phi[ii] FS[Wi,mu,nu,kk] FS[Wi,mu,nu,kk], FlavorExpand->{SU2D, SU2W}]
+      ];
+
+
+
+OHB:= Module[{mu,nu,ii},
+		ExpandIndices[Phibar[ii] Phi[ii] FS[B,mu,nu] FS[B,mu,nu], FlavorExpand->{SU2D}]
+      ];
+
+
+OHWB := Module[{mu,nu,ii,jj,kk},
+		ExpandIndices[Phibar[ii] PauliSigma[kk,ii,jj] Phi[jj] FS[Wi,mu,nu,kk] FS[B,mu,nu], FlavorExpand->{SU2D, SU2W}]
+      ];
+
+
+
+
+
+L6higgs:= (cHW OHW + cHB OHB + cHWB OHWB )/ LambdaSMEFT^2;

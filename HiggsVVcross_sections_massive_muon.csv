@@ -1,0 +1,151 @@
+Process,Operator,Contribution,Cross-section,COM energy
+mu+ mu- > z h,SM,SM only,0.0001230151,10000
+mu+ mu- > z h,cHW,Interference,0.00015220998535850003,10000
+mu+ mu- > z h,cHWB,Interference,6.820799958679999e-05,10000
+mu+ mu- > z h,cHB,Interference,2.70919964266e-05,10000
+mu+ mu- > z h,cHW,NP^2,0.051905,10000
+mu+ mu- > z h,cHWB,NP^2,0.014885815994699998,10000
+mu+ mu- > z h,cHB,NP^2,0.0213703,10000
+mu+ mu- > z h,cHW + cHWB,Mixed NP^2,1.8469600169886e-05,10000
+mu+ mu- > z h,cHW + cHB,Mixed NP^2,-0.029717,10000
+mu+ mu- > z h,cHWB + cHB,Mixed NP^2,0.0318999000041656,10000
+mu+ mu- > a a,SM,SM only,0.031037,10000
+mu+ mu- > a a,cHW,Interference,-1.6431600000000001e-09,10000
+mu+ mu- > a a,cHWB,Interference,-0.014055017767,10000
+mu+ mu- > a a,cHB,Interference,-5.783e-09,10000
+mu+ mu- > a a,cHW,NP^2,8.5931e-09,10000
+mu+ mu- > a a,cHWB,NP^2,0.0023867058401,10000
+mu+ mu- > a a,cHB,NP^2,1.0449e-07,10000
+mu+ mu- > a a,cHW + cHWB,Mixed NP^2,-3.175508e-08,10000
+mu+ mu- > a a,cHW + cHB,Mixed NP^2,5.9931e-08,10000
+mu+ mu- > a a,cHWB + cHB,Mixed NP^2,-1.1070174e-07,10000
+mu+ mu- > w+ w-,SM,SM only,0.05849160099667,10000
+mu+ mu- > w+ w-,cHW,Interference,-7.373545e-10,10000
+mu+ mu- > w+ w-,cHWB,Interference,0.000236002,10000
+mu+ mu- > w+ w-,cHB,Interference,0.0,10000
+mu+ mu- > w+ w-,cHW,NP^2,3.459e-07,10000
+mu+ mu- > w+ w-,cHWB,NP^2,0.0479706,10000
+mu+ mu- > w+ w-,cHB,NP^2,0.0,10000
+mu+ mu- > w+ w-,cHW + cHWB,Mixed NP^2,-2.08755e-13,10000
+mu+ mu- > w+ w-,cHW + cHB,Mixed NP^2,0.0,10000
+mu+ mu- > w+ w-,cHWB + cHB,Mixed NP^2,0.0,10000
+mu+ mu- > z a,SM,SM only,0.021977,10000
+mu+ mu- > z a,cHW,Interference,-4.1185e-10,10000
+mu+ mu- > z a,cHWB,Interference,-0.0044998000051026995,10000
+mu+ mu- > z a,cHB,Interference,4.1185e-10,10000
+mu+ mu- > z a,cHW,NP^2,5.9916e-08,10000
+mu+ mu- > z a,cHWB,NP^2,0.00038671000095976,10000
+mu+ mu- > z a,cHB,NP^2,5.9916e-08,10000
+mu+ mu- > z a,cHW + cHWB,Mixed NP^2,-8.012170999999999e-08,10000
+mu+ mu- > z a,cHW + cHB,Mixed NP^2,0.0,10000
+mu+ mu- > z a,cHWB + cHB,Mixed NP^2,8.013540999999999e-08,10000
+mu+ mu- > z z,SM,SM only,0.0032131000000000342,10000
+mu+ mu- > z z,cHW,Interference,1.3376499999999998e-09,10000
+mu+ mu- > z z,cHWB,Interference,0.00038664000033835,10000
+mu+ mu- > z z,cHB,Interference,3.81847e-10,10000
+mu+ mu- > z z,cHW,NP^2,1.0444e-07,10000
+mu+ mu- > z z,cHWB,NP^2,0.00018529000030584,10000
+mu+ mu- > z z,cHB,NP^2,8.5888e-09,10000
+mu+ mu- > z z,cHW + cHWB,Mixed NP^2,1.11831582e-07,10000
+mu+ mu- > z z,cHW + cHB,Mixed NP^2,5.9901e-08,10000
+mu+ mu- > z z,cHWB + cHB,Mixed NP^2,3.206792e-08,10000
+mu+ mu- > z h,SM,SM only,6.27539e-05,14000
+mu+ mu- > z h,cHW,Interference,7.7660962347e-05,14000
+mu+ mu- > z h,cHWB,Interference,3.4801974131999994e-05,14000
+mu+ mu- > z h,cHB,Interference,1.3844188830299999e-05,14000
+mu+ mu- > z h,cHW,NP^2,0.051901,14000
+mu+ mu- > z h,cHWB,NP^2,0.0148872086654,14000
+mu+ mu- > z h,cHB,NP^2,0.0213724,14000
+mu+ mu- > z h,cHW + cHWB,Mixed NP^2,9.423847645499999e-06,14000
+mu+ mu- > z h,cHW + cHB,Mixed NP^2,-0.029732,14000
+mu+ mu- > z h,cHWB + cHB,Mixed NP^2,0.031907500004117594,14000
+mu+ mu- > a a,SM,SM only,0.016286,14000
+mu+ mu- > a a,cHW,Interference,-8.5233e-10,14000
+mu+ mu- > a a,cHWB,Interference,-0.007374817764,14000
+mu+ mu- > a a,cHB,Interference,-2.9679500000000003e-09,14000
+mu+ mu- > a a,cHW,NP^2,8.5918e-09,14000
+mu+ mu- > a a,cHWB,NP^2,0.0012524058400000002,14000
+mu+ mu- > a a,cHB,NP^2,1.0448e-07,14000
+mu+ mu- > a a,cHW + cHWB,Mixed NP^2,-3.1924695e-08,14000
+mu+ mu- > a a,cHW + cHB,Mixed NP^2,5.9921e-08,14000
+mu+ mu- > a a,cHWB + cHB,Mixed NP^2,-1.1128479e-07,14000
+mu+ mu- > w+ w-,SM,SM only,0.0321588,14000
+mu+ mu- > w+ w-,cHW,Interference,-3.7633335e-10,14000
+mu+ mu- > w+ w-,cHWB,Interference,0.000120512,14000
+mu+ mu- > w+ w-,cHB,Interference,0.0,14000
+mu+ mu- > w+ w-,cHW,NP^2,3.4591e-07,14000
+mu+ mu- > w+ w-,cHWB,NP^2,0.048011200000000004,14000
+mu+ mu- > w+ w-,cHB,NP^2,0.0,14000
+mu+ mu- > w+ w-,cHW + cHWB,Mixed NP^2,-1.0652590000000001e-13,14000
+mu+ mu- > w+ w-,cHW + cHB,Mixed NP^2,0.0,14000
+mu+ mu- > w+ w-,cHWB + cHB,Mixed NP^2,0.0,14000
+mu+ mu- > z a,SM,SM only,0.0114831,14000
+mu+ mu- > z a,cHW,Interference,-2.09718e-10,14000
+mu+ mu- > z a,cHWB,Interference,-0.0023513000027495998,14000
+mu+ mu- > z a,cHB,Interference,2.09718e-10,14000
+mu+ mu- > z a,cHW,NP^2,5.9914e-08,14000
+mu+ mu- > z a,cHWB,NP^2,0.00019992300052858,14000
+mu+ mu- > z a,cHB,NP^2,5.9914e-08,14000
+mu+ mu- > z a,cHW + cHWB,Mixed NP^2,-7.9971014e-08,14000
+mu+ mu- > z a,cHW + cHB,Mixed NP^2,0.0,14000
+mu+ mu- > z a,cHWB + cHB,Mixed NP^2,7.9970527e-08,14000
+mu+ mu- > z z,SM,SM only,0.0017474,14000
+mu+ mu- > z z,cHW,Interference,7.2904e-10,14000
+mu+ mu- > z z,cHWB,Interference,0.00020653000017372,14000
+mu+ mu- > z z,cHB,Interference,2.08975e-10,14000
+mu+ mu- > z z,cHW,NP^2,1.0445e-07,14000
+mu+ mu- > z z,cHWB,NP^2,0.00010095000015568,14000
+mu+ mu- > z z,cHB,NP^2,8.5896e-09,14000
+mu+ mu- > z z,cHW + cHWB,Mixed NP^2,1.1184807099999999e-07,14000
+mu+ mu- > z z,cHW + cHB,Mixed NP^2,5.9906e-08,14000
+mu+ mu- > z z,cHWB + cHB,Mixed NP^2,3.2074696000000003e-08,14000
+mu+ mu- > z h,SM,SM only,1.36651e-05,30000
+mu+ mu- > z h,cHW,Interference,1.6913468618e-05,30000
+mu+ mu- > z h,cHWB,Interference,7.5792801954e-06,30000
+mu+ mu- > z h,cHB,Interference,3.0489521766999996e-06,30000
+mu+ mu- > z h,cHW,NP^2,0.051904,30000
+mu+ mu- > z h,cHWB,NP^2,0.014888100006613302,30000
+mu+ mu- > z h,cHB,NP^2,0.021373399999999997,30000
+mu+ mu- > z h,cHW + cHWB,Mixed NP^2,2.0524396129e-06,30000
+mu+ mu- > z h,cHW + cHB,Mixed NP^2,-0.029734,30000
+mu+ mu- > z h,cHWB + cHB,Mixed NP^2,0.0319133000037473,30000
+mu+ mu- > a a,SM,SM only,0.0036284,30000
+mu+ mu- > a a,cHW,Interference,-1.92757e-10,30000
+mu+ mu- > a a,cHWB,Interference,-0.00166431776,30000
+mu+ mu- > a a,cHB,Interference,-6.965599999999999e-10,30000
+mu+ mu- > a a,cHW,NP^2,8.5907e-09,30000
+mu+ mu- > a a,cHWB,NP^2,0.0002826458449,30000
+mu+ mu- > a a,cHB,NP^2,1.0446e-07,30000
+mu+ mu- > a a,cHW + cHWB,Mixed NP^2,-3.2049866e-08,30000
+mu+ mu- > a a,cHW + cHB,Mixed NP^2,5.9914e-08,30000
+mu+ mu- > a a,cHWB + cHB,Mixed NP^2,-1.1176204900000001e-07,30000
+mu+ mu- > w+ w-,SM,SM only,0.00804009,30000
+mu+ mu- > w+ w-,cHW,Interference,-8.201661e-11,30000
+mu+ mu- > w+ w-,cHWB,Interference,2.62626e-05,30000
+mu+ mu- > w+ w-,cHB,Interference,0.0,30000
+mu+ mu- > w+ w-,cHW,NP^2,3.4592e-07,30000
+mu+ mu- > w+ w-,cHWB,NP^2,0.048030199999999995,30000
+mu+ mu- > w+ w-,cHB,NP^2,0.0,30000
+mu+ mu- > w+ w-,cHW + cHWB,Mixed NP^2,-2.32022e-14,30000
+mu+ mu- > w+ w-,cHW + cHB,Mixed NP^2,0.0,30000
+mu+ mu- > w+ w-,cHWB + cHB,Mixed NP^2,0.0,30000
+mu+ mu- > z a,SM,SM only,0.0025532000000000003,30000
+mu+ mu- > z a,cHW,Interference,-4.4819e-11,30000
+mu+ mu- > z a,cHWB,Interference,-0.00053968000065626,30000
+mu+ mu- > z a,cHB,Interference,4.4819e-11,30000
+mu+ mu- > z a,cHW,NP^2,5.9912e-08,30000
+mu+ mu- > z a,cHWB,NP^2,4.875500013251e-05,30000
+mu+ mu- > z a,cHB,NP^2,5.9912e-08,30000
+mu+ mu- > z a,cHW + cHWB,Mixed NP^2,-7.984036699999999e-08,30000
+mu+ mu- > z a,cHW + cHB,Mixed NP^2,0.0,30000
+mu+ mu- > z a,cHWB + cHB,Mixed NP^2,7.9832658e-08,30000
+mu+ mu- > z z,SM,SM only,0.0004137,30000
+mu+ mu- > z z,cHW,Interference,1.9080399999999999e-10,30000
+mu+ mu- > z z,cHWB,Interference,4.975800017156e-05,30000
+mu+ mu- > z z,cHB,Interference,5.4427e-11,30000
+mu+ mu- > z z,cHW,NP^2,1.0446e-07,30000
+mu+ mu- > z z,cHWB,NP^2,2.3911000148379998e-05,30000
+mu+ mu- > z z,cHB,NP^2,8.5902e-09,30000
+mu+ mu- > z z,cHW + cHWB,Mixed NP^2,1.118682455e-07,30000
+mu+ mu- > z z,cHW + cHB,Mixed NP^2,5.9911e-08,30000
+mu+ mu- > z z,cHWB + cHB,Mixed NP^2,3.208149118e-08,30000
